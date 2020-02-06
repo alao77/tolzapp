@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/tolzapp/static/css/main.d1b05096.chunk.css",
-    "main.js": "/tolzapp/static/js/main.524adc97.chunk.js",
-    "main.js.map": "/tolzapp/static/js/main.524adc97.chunk.js.map",
+    "main.css": "/tolzapp/static/css/main.584f321a.chunk.css",
+    "main.js": "/tolzapp/static/js/main.216cc39b.chunk.js",
+    "main.js.map": "/tolzapp/static/js/main.216cc39b.chunk.js.map",
     "runtime-main.js": "/tolzapp/static/js/runtime-main.24d81794.js",
     "runtime-main.js.map": "/tolzapp/static/js/runtime-main.24d81794.js.map",
-    "static/js/2.de0b59e4.chunk.js": "/tolzapp/static/js/2.de0b59e4.chunk.js",
-    "static/js/2.de0b59e4.chunk.js.map": "/tolzapp/static/js/2.de0b59e4.chunk.js.map",
+    "static/js/2.c32865cb.chunk.js": "/tolzapp/static/js/2.c32865cb.chunk.js",
+    "static/js/2.c32865cb.chunk.js.map": "/tolzapp/static/js/2.c32865cb.chunk.js.map",
     "index.html": "/tolzapp/index.html",
-    "precache-manifest.cc06f6e0846b600c1b16c1e59d35e92f.js": "/tolzapp/precache-manifest.cc06f6e0846b600c1b16c1e59d35e92f.js",
+    "precache-manifest.7a743ced1ac4785aa910ecf2babc8f7a.js": "/tolzapp/precache-manifest.7a743ced1ac4785aa910ecf2babc8f7a.js",
     "service-worker.js": "/tolzapp/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/tolzapp/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.de0b59e4.chunk.js.LICENSE.txt": "/tolzapp/static/js/2.de0b59e4.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/tolzapp/static/media/logo.5d5d9eef.svg"
+    "static/css/main.584f321a.chunk.css.map": "/tolzapp/static/css/main.584f321a.chunk.css.map",
+    "static/js/2.c32865cb.chunk.js.LICENSE.txt": "/tolzapp/static/js/2.c32865cb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.24d81794.js",
-    "static/js/2.de0b59e4.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.524adc97.chunk.js"
+    "static/js/2.c32865cb.chunk.js",
+    "static/css/main.584f321a.chunk.css",
+    "static/js/main.216cc39b.chunk.js"
   ]
 }
