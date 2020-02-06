@@ -33,13 +33,13 @@ export default class About extends Component {
 			
 			<div className="row row-pt-md">
 				<div className="col-md-4 text-center animate-box">	
-					<a href="#bantayan1000px"><img src={"./images/bantayan.jpg"} /></a>
+					<a href="#bantayan1000px"><img src={"./images/bantayan.jpg"} alt="bantayan" /></a>
 				</div>
 				<div className="col-md-4 text-center animate-box">	
-					<a href="#Fireworks1000px"><img src={"./images/Fireworks400px.jpg"} /></a>
+					<a href="#Fireworks1000px"><img src={"./images/Fireworks400px.jpg"} alt="Fireworks" /></a>
 				</div>
 				<div className="col-md-4 text-center animate-box">	
-					<a href="#fatherNdaughter1000px"><img src={"./images/fatherNdaughter.jpg"} /></a>
+					<a href="#fatherNdaughter1000px"><img src={"./images/fatherNdaughter.jpg"} alt="fatherNdaughter" /></a>
 				</div>
 				
 			</div>

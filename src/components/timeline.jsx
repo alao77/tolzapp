@@ -16,7 +16,7 @@ export default class Timeline extends Component {
             <div className="row">
 				<div className="col-md-12">
 					<div className="photoblog" id="cowgirl1000px">
-						<img src={"./images/cowgirl1000px.jpg"} />
+						<img src={"./images/cowgirl1000px.jpg"} alt="cowgirl" />
 						  <p><small>
 							Canon Rebel SL1 | 250mm | f/7.1 | 1/800sec | ISO 400
 						  </small></p>
@@ -27,7 +27,7 @@ export default class Timeline extends Component {
 				  </div>
 				<div className="col-md-12">
 					<div className="photoblog" id="shed1000px">
-						<img src={"./images/shed1000px.jpg"} />
+						<img src={"./images/shed1000px.jpg"} alt="shed" />
 						  <p><small>
 							Canon Rebel SL1 | 40mm | f/8 | 1/320sec | ISO 200
 						  </small></p>
@@ -38,7 +38,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="winnipegalley1000px">
-						<img src={"./images/winnipegalley1000px.jpg"} />
+						<img src={"./images/winnipegalley1000px.jpg"} alt="winnipegalley" />
 						  <p><small>
 							Canon 350D | 23mm | f/7.1 | 1/500sec | ISO 100
 						  </small></p>
@@ -49,7 +49,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="woodbine1000px">
-						<img src={"./images/woodbine1000px.jpg"} />
+						<img src={"./images/woodbine1000px.jpg"} alt="woodbine" />
 						  <p><small>
 							Canon 350D | 29mm | f/7.1 | 1/200sec | ISO 100
 						  </small></p>
@@ -60,7 +60,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="winnipegwallart1000px">
-						<img src={"./images/winnipegwallart1000px.jpg"} />
+						<img src={"./images/winnipegwallart1000px.jpg"} alt="winnipegwallart" />
 						  <p><small>
 							Canon 350D | 29mm | f/7.1 | 1/200sec | ISO 100
 						  </small></p>
@@ -71,7 +71,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="StBoniface1000px">
-						<img src={"./images/StBoniface1000px.jpg"} />
+						<img src={"./images/StBoniface1000px.jpg"} alt="StBoniface" />
 						  <p><small>
 							Canon 350D | 21mm | f/7.1 | 1/640sec | ISO 100
 						  </small></p>
@@ -83,7 +83,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="legislative1000px">
-						<img src={"./images/legislative1000px.jpg"} />
+						<img src={"./images/legislative1000px.jpg"} alt="legislative" />
 						  <p><small>
 							Canon 350D | 26mm | f/8 | 1/400sec | ISO 100
 						  </small></p>
@@ -94,7 +94,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="lakelouise1000px">
-						<img src={"./images/lakelouise1000px.jpg"} />
+						<img src={"./images/lakelouise1000px.jpg"} alt="lakelouise" />
 						  <p><small>
 							Canon 350D | 17mm | f/7.1 | 1/200sec | ISO 100
 						  </small></p>
@@ -105,7 +105,7 @@ export default class Timeline extends Component {
 				  </div>
 				   <div className="col-md-12">
 					<div className="photoblog" id="neepawalily1000px">
-						<img src={"./images/neepawalily1000px.jpg"} />
+						<img src={"./images/neepawalily1000px.jpg"} alt="neepawalily" />
 						  <p><small>
 							Canon 350D | 45mm | f/2.8 | 1/640sec | ISO 800
 						  </small></p>
@@ -116,7 +116,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="guitars1000px">
-						<img src={"./images/guitars1000px.jpg"} />
+						<img src={"./images/guitars1000px.jpg"} alt="guitars" />
 						  <p><small>
 							Canon 350D | 50mm | f/2.8 | 1/250sec | ISO 400
 						  </small></p>
@@ -127,7 +127,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="lighthouse1000px">
-						<img src={"./images/lighthouse1000px.jpg"} />
+						<img src={"./images/lighthouse1000px.jpg"} alt="lighthouse" />
 						  <p><small>
 							Canon 350D | 50mm | f/6.3 | 1/500sec | ISO 100
 						  </small></p>
@@ -138,7 +138,7 @@ export default class Timeline extends Component {
 				  </div>
 				   <div className="col-md-12">
 					<div className="photoblog" id="chopsue1000px">
-						<img src={"./images/chopsue1000px.jpg"} />
+						<img src={"./images/chopsue1000px.jpg"} alt="chopsue" />
 						  <p><small>
 							Canon 350D | 50mm | f/2.8 | 1/160sec | ISO 100
 						  </small></p>
@@ -149,7 +149,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="beachview1000px">
-						<img src={"./images/beachview1000px.jpg"} />
+						<img src={"./images/beachview1000px.jpg"} alt="beachview" />
 						  <p><small>
 							Canon 350D | 22mm | f/6.3 | 1/200sec | ISO 100
 						  </small></p>
@@ -161,7 +161,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="bantayan1000px">
-						<img src={"./images/bantayan1000px.jpg"} />
+						<img src={"./images/bantayan1000px.jpg"} alt="bantayan" />
 						  <p><small>
 							Canon 350D | 24mm | f/8 | 1/80sec | ISO 100
 						  </small></p>
@@ -173,7 +173,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="Fireworks1000px">
-						<img src={"./images/Fireworks1000px.jpg"} />
+						<img src={"./images/Fireworks1000px.jpg"} alt="Fireworks" />
 						  <p><small>
 							Canon 350D | 17mm | f/10 | 4sec | ISO 100
 						  </small></p>
@@ -184,7 +184,7 @@ export default class Timeline extends Component {
 				  </div>
 				  <div className="col-md-12">
 					<div className="photoblog" id="fatherNdaughter1000px">
-						<img src={"./images/fatherNdaughter1000px.jpg"} />
+						<img src={"./images/fatherNdaughter1000px.jpg"} alt="fatherNdaughter" />
 						<p><small>
 							Canon 350D | 50mm | f/2.8 | 1/200sec | ISO 100
 						  </small></p>
