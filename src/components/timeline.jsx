@@ -33,7 +33,7 @@ export default class Timeline extends Component {
 						Canon 350D | 17mm | f/10 | 4sec | ISO 100
 					  </small></p>
 					  <p>
-						This is my winning photo entry to the Brandon Sun 2012 Summer Fair Photo Contest - "Best Night Life" category.
+						This was my winning photo entry to the Brandon Sun 2012 Summer Fair Photo Contest - "Best Night Life" category.
 					  </p>
 				</div>
 			  </div>
