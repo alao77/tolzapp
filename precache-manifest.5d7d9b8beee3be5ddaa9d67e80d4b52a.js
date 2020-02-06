@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e535a3a34d05a0cfda544ab8a0fd57f",
+    "revision": "22fbe76aa3fd9d03bb4ad32be9b75f83",
     "url": "/tolzapp/index.html"
   },
   {
-    "revision": "8bbe5777f63a28a67cd1",
+    "revision": "6d8e558554142f30ab96",
     "url": "/tolzapp/static/css/main.584f321a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tolzapp/static/js/2.c32865cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8bbe5777f63a28a67cd1",
-    "url": "/tolzapp/static/js/main.71b2ba0c.chunk.js"
+    "revision": "6d8e558554142f30ab96",
+    "url": "/tolzapp/static/js/main.7cef963d.chunk.js"
   },
   {
     "revision": "f2b23d68ec30d0ad350f",
