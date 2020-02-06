@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I hold a bachelors degree in Computer Engineering (University of Cebu batch 2003). Coder by profession. Family man.</p>
+                    <p>Holds a bachelors degree in Computer Engineering (University of Cebu batch 2003). Coder by profession. Family man.</p>
                     <p>Certified PC gamer. I love to shoot nature and people (through my camera lens =D ). I run and road bike... </p>
                     </div>
                 </div>
