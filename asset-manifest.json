@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tolzapp/static/css/main.83bd8ac9.chunk.css",
-    "main.js": "/tolzapp/static/js/main.7922fb45.chunk.js",
-    "main.js.map": "/tolzapp/static/js/main.7922fb45.chunk.js.map",
+    "main.js": "/tolzapp/static/js/main.df7186de.chunk.js",
+    "main.js.map": "/tolzapp/static/js/main.df7186de.chunk.js.map",
     "runtime-main.js": "/tolzapp/static/js/runtime-main.24d81794.js",
     "runtime-main.js.map": "/tolzapp/static/js/runtime-main.24d81794.js.map",
     "static/js/2.c32865cb.chunk.js": "/tolzapp/static/js/2.c32865cb.chunk.js",
     "static/js/2.c32865cb.chunk.js.map": "/tolzapp/static/js/2.c32865cb.chunk.js.map",
     "index.html": "/tolzapp/index.html",
-    "precache-manifest.96d66a96de7e8a2915515f45e0fccd97.js": "/tolzapp/precache-manifest.96d66a96de7e8a2915515f45e0fccd97.js",
+    "precache-manifest.db47d8579090458b6c07e7dea6da6f8d.js": "/tolzapp/precache-manifest.db47d8579090458b6c07e7dea6da6f8d.js",
     "service-worker.js": "/tolzapp/service-worker.js",
     "static/css/main.83bd8ac9.chunk.css.map": "/tolzapp/static/css/main.83bd8ac9.chunk.css.map",
     "static/js/2.c32865cb.chunk.js.LICENSE.txt": "/tolzapp/static/js/2.c32865cb.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.24d81794.js",
     "static/js/2.c32865cb.chunk.js",
     "static/css/main.83bd8ac9.chunk.css",
-    "static/js/main.7922fb45.chunk.js"
+    "static/js/main.df7186de.chunk.js"
   ]
 }
