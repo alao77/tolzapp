@@ -21,7 +21,7 @@ export default class Timeline extends Component {
 							Canon Rebel SL1 | 250mm | f/7.1 | 1/800sec | ISO 400
 						  </small></p>
 						  <p>
-							Cowgirl doing the Barrel Racing run. 2017 Virden Rodeo.
+							Cowgirl doing the Barrel Racing run. 2017 <a href="https://www.virdenindoorrodeo.ca/" target="_blank">Virden Rodeo</a>.
 						  </p>
 					</div>
 				  </div>
@@ -43,7 +43,7 @@ export default class Timeline extends Component {
 							Canon 350D | 23mm | f/7.1 | 1/500sec | ISO 100
 						  </small></p>
 						  <p>
-							Winnipeg street photography walk series. Found this dark alley in one of the streets of Winnipeg and then I noticed the contrasting building on the backdrop.
+							<a href="https://www.tourismwinnipeg.com/" target="_blank">Winnipeg</a> street photography walk series. Found this dark alley in one of the streets of Winnipeg and then I noticed the contrasting building on the backdrop.
 						  </p>
 					</div>
 				  </div>
@@ -54,7 +54,7 @@ export default class Timeline extends Component {
 							Canon 350D | 29mm | f/7.1 | 1/200sec | ISO 100
 						  </small></p>
 						  <p>
-							Winnipeg street photography walk series. Woodbine hotel near the busy Portage and Main intersection.
+							<a href="https://www.tourismwinnipeg.com/" target="_blank">Winnipeg</a> street photography walk series. <a href="http://www.mhs.mb.ca/docs/sites/woodbinehotel.shtml" target="_blank">Woodbine hotel</a> near the busy Portage and Main intersection.
 						  </p>
 					</div>
 				  </div>
@@ -65,7 +65,7 @@ export default class Timeline extends Component {
 							Canon 350D | 29mm | f/7.1 | 1/200sec | ISO 100
 						  </small></p>
 						  <p>
-							Winnipeg street photography walk series. Wall arts like this one are common sights with the old buildings in downtown Winnipeg.
+							<a href="https://www.tourismwinnipeg.com/" target="_blank">Winnipeg</a> street photography walk series. Wall arts like this one are common sights with the old buildings in downtown Winnipeg.
 						  </p>
 					</div>
 				  </div>
@@ -76,7 +76,7 @@ export default class Timeline extends Component {
 							Canon 350D | 21mm | f/7.1 | 1/640sec | ISO 100
 						  </small></p>
 						  <p>
-							Saint Boniface Cathedral - Winnipeg, Manitoba.<br/>
+							<a href="https://www.cathedralestboniface.ca/index.php?lang=en" target="_blank">Saint Boniface</a> Cathedral - <a href="https://www.tourismwinnipeg.com/" target="_blank">Winnipeg</a>, Manitoba.<br/>
 							Historically, the original whole structure was destroyed by fire. Only the facade and walls remain.
 						  </p>
 					</div>
@@ -88,7 +88,7 @@ export default class Timeline extends Component {
 							Canon 350D | 26mm | f/8 | 1/400sec | ISO 100
 						  </small></p>
 						  <p>
-							Native Canadian Indian rock sculpture with the Manitoba Legislative building in the background. Sculptures as this one were used as landmarks or for navigations.
+							Native Canadian Indian rock sculpture with the <a href = "https://www.gov.mb.ca/legislature/visiting/index.html" target="_blank">Manitoba Legislative</a> building in the background. Sculptures as this one were used as landmarks or for navigations.
 						  </p>
 					</div>
 				  </div>
@@ -99,7 +99,7 @@ export default class Timeline extends Component {
 							Canon 350D | 17mm | f/7.1 | 1/200sec | ISO 100
 						  </small></p>
 						  <p>
-							Canoes at the beautiful Lake Louise - Banff, Alberta.
+							Canoes at the beautiful <a href = "https://www.banfflakelouise.com/" target="_blank">Lake Louise - Banff</a>, Alberta.
 						  </p>
 					</div>
 				  </div>
@@ -110,7 +110,7 @@ export default class Timeline extends Component {
 							Canon 350D | 45mm | f/2.8 | 1/640sec | ISO 800
 						  </small></p>
 						  <p>
-							Winning photo entry in the Neepawa Lily Festival 2012 Photo Contest.
+							Winning photo entry in the <a href="http://www.neepawa.ca/neepawa-lily-festival/" target="_blank">Neepawa Lily Festival</a> 2012 Photo Contest.
 						  </p>
 					</div>
 				  </div>
@@ -121,7 +121,7 @@ export default class Timeline extends Component {
 							Canon 350D | 50mm | f/2.8 | 1/250sec | ISO 400
 						  </small></p>
 						  <p>
-							Locally made guitars on display near the Basilica Minore del Sto. Nino - Cebu. Shot with a Canon nifty-fity lens.
+							Locally made guitars on display near the <a href="https://santoninodecebubasilica.org/" target="_blank">Basilica Minore del Sto. Nino</a> - Cebu. Shot with a Canon nifty-fity lens.
 						  </p>
 					</div>
 				  </div>
@@ -132,7 +132,7 @@ export default class Timeline extends Component {
 							Canon 350D | 50mm | f/6.3 | 1/500sec | ISO 100
 						  </small></p>
 						  <p>
-							Liloan light house.
+							Liloan <a href="https://en.wikipedia.org/wiki/Bagacay_Point_Lighthouse" target="_blank">Bagacay Point</a> light house.
 						  </p>
 					</div>
 				  </div>
@@ -154,7 +154,7 @@ export default class Timeline extends Component {
 							Canon 350D | 22mm | f/6.3 | 1/200sec | ISO 100
 						  </small></p>
 						  <p>
-							Beach view in Sta.Fe, Bantayan Island - Cebu. This was a self-portrait (a.k.a selfie) with my wife and I. Camera was placed on a stable rock with timer set to 10sec. <br/>
+							Beach view in <a href="https://sugbo.ph/2018/beach-resorts-sta-fe-bantayan/" target="_blank">Sta.Fe, Bantayan Island</a> - Cebu. This was a self-portrait (a.k.a selfie) with my wife and I. Camera was placed on a stable rock with timer set to 10sec. <br/>
 							Just enough time for me going back to the chair and mesmerize with the view. Circular polarizer was used for better sky gradient and glare free sea line.
 						  </p>
 					</div>
@@ -166,7 +166,7 @@ export default class Timeline extends Component {
 							Canon 350D | 24mm | f/8 | 1/80sec | ISO 100
 						  </small></p>
 						  <p>
-							Fantastic overlooking scenery near Ogtong Cave Resort. Situated 100kms north of Cebu City in the town of Sta. Fe, Bantayan Island. <br/>
+							Fantastic overlooking scenery near <a href="https://www.tripadvisor.ca/Hotel_Review-s1-g2450335-d646247-Reviews-Ogtong_Cave_Resort-Santa_Fe_Bantayan_Island_Cebu_Island_Visayas.html" target="_blank">Ogtong Cave Resort</a>. Situated 100kms north of Cebu City in the town of <a href="https://sugbo.ph/2018/beach-resorts-sta-fe-bantayan/" target="_blank">Sta. Fe, Bantayan Island</a>. <br/>
 							I used a circular polarizer filter on this shot which resulted to an awesome blue color gradient of the sky as well as suppressing glare from the surface of the sea.
 						  </p>
 					</div>
@@ -178,7 +178,7 @@ export default class Timeline extends Component {
 							Canon 350D | 17mm | f/10 | 4sec | ISO 100
 						  </small></p>
 						  <p>
-							This was my winning photo entry in the Brandon Sun 2012 Summer Fair Photo Contest - "Best Night Life" category.
+							This was my winning photo entry in the <a href="https://www.brandonsun.com/" target="_blank">Brandon Sun</a> 2012 Summer Fair Photo Contest - "Best Night Life" category.
 						  </p>
 					</div>
 				  </div>
